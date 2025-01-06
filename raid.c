@@ -1,6 +1,3 @@
-// Hamming code project by William Miyamoto (CS444-01, 2024) //
-// Part 1: RAID 2 encoding method //
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
