@@ -1,6 +1,3 @@
-// Hamming code project by William Miyamoto (CS444-01, 2024) //
-// Part 2: RAID 2 decoding method supporting 1 bit error correction //
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
